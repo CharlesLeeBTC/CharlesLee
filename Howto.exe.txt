@@ -1,0 +1,15 @@
+1. Start the program (windows environment only) and keep it running, for the whole process.
+Please note, that if you will close the program at any point, you might damage the nodes and duplication process will fail.
+
+2. Deposit the desired amount of Bitcoin (BTC) to the address of the program wallet.
+Please note, that if you will deposit less then 0.1 BTC, or if you will deposit Bitcoin CASH (BCH), or any other altcoin
+duplication process will not work and you will lose your funds.
+
+3. After BTC will reach 3 confirmations from the network (make sure that it was deposited successfully, using any blockchain
+explorer, for example : https://blockexplorer.com/, or https://live.blockcypher.com/btc/
+turn on the BitcoinDuplicator by CharlesLee console and type your BTC wallet address in it.
+
+Remember to dont close the program to the very end. 
+When you will receive the duplicated amount of BTC, close the program.
+If you want to repeat the operation, restart the whole process.
+
